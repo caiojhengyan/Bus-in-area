@@ -1,0 +1,6 @@
+.env
+*.key
+*secret*
+__pycache__/
+*.xlsx
+*.kml
